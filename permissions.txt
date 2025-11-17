@@ -1,0 +1,6 @@
+total 16
+-rwxrwxr-x 1 renaud renaud  25 nov.  17 10:40 first_nav.sh
+-rwx--x--x 1 renaud renaud  45 nov.  17 11:32 hello.sh
+-rw-rw-r-- 1 renaud renaud   0 nov.  17 11:41 permissions.txt
+-rw------- 1 renaud renaud  17 nov.  17 11:38 secret.txt
+-rwxrwxr-x 1 renaud renaud 255 nov.  17 11:31 system_info.sh
