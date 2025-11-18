@@ -1,0 +1,1 @@
+find $(pwd) -type f -name "*.swp" -delete
