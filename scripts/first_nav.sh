@@ -1,3 +1,3 @@
 pwd
-ls -al
+ls ~/ -al
 bash --version
